@@ -203,6 +203,10 @@ Enforce all the rules in this category, as well as all higher priority rules, wi
 | :wrench: | [vue/order-in-components](./docs/rules/order-in-components.md) | enforce order of properties in components |
 |  | [vue/this-in-template](./docs/rules/this-in-template.md) | enforce usage of `this` in template |
 
+
+| :wrench: | [vue/no-autofocus](./docs/rules/no-autofocus.md) | the autofocus attribute should not be used |
+
+
 ### Uncategorized
 
 |    | Rule ID | Description |
